@@ -12,6 +12,7 @@ Primeiro decidi como seria a fala do avatar, depois escolhi um avatar e uma voz 
 
 ## 🚀 Resultados
 O resultado foi bem interessante, a anamição dos avatares é incrivelmente fluida. Acredito se eu utilizasse a clonagem de voz e um backgroud melhor ficaria quase imperceptivel a diferença.
+[Link para o video](https://studio.d-id.com/share?id=c8f83d41837868c0d7645d747e760a5a&utm_source=copy)
 
 ## 💭 Reflexão (Opcional)
 Achei bem interessante o desafio, nos incentivando a utilizar e conhecer novas ferramentas que poder ser muito úteis se utilizadas corretamente.
